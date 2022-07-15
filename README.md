@@ -2,7 +2,7 @@
 
 ### pronouns: he/him
 
-### known languages: haxe, and gml
+### What I know: haxe, and gml
 
 ### currently working on: Friday Night Flippin, Immunus showdown, Vs. Camellia, Vs. Neon, & more!
 
